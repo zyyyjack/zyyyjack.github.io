@@ -32,6 +32,7 @@ Syntax highlighted code block
   <tr>
     <td width="75%">
       <h1>张三丰</h1>
+      <ol><li> 楷书 </li></ol>
       <p><b>硕士研究生</b></p>
       <p><b>××大学××学院</b></p>
       <p><b>邮箱：1234567789@qq.com</b></p>
