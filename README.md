@@ -11,9 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# 书法作品 1
-## 楷书 2
-### 草书 3
+<h1>书法作品</h1>
+<p><q>秦朝（前２２１年～前２０６年）是中国历史上第一个统一的封建王朝，实行中央集权制，嬴政自号“始皇帝”，国祚虽短，却有深远的历史影响。
+　　秦推广小篆，结束了春秋战国以来文字的分化。秦同时还推行了隶书，使之逐步成熟。 </q></p>
+  
+<ol><li> 楷书 </li></ol>
+ <ol><li>草书 </li><ol>
 
 - Bulleted
 - List
@@ -28,7 +31,7 @@ Syntax highlighted code block
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
+      <h1>张三丰</h1>
       <p><b>硕士研究生</b></p>
       <p><b>××大学××学院</b></p>
       <p><b>邮箱：1234567789@qq.com</b></p>
@@ -39,11 +42,8 @@ Syntax highlighted code block
     </td>
   </tr>
 </table>
-————————————————
-版权声明：本文为CSDN博主「zxhohai」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/hohaizx/article/details/85066248
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
