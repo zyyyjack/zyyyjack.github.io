@@ -18,21 +18,12 @@ Syntax highlighted code block
 <ol><li> 楷书 </li></ol>
  <ol><li>草书 </li><ol>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 <table border="0">
   <tr>
     <td width="75%">
       <h1>张三丰</h1>
-      <ol><li> 楷书 </li></ol>
+      <p> 楷书 <p>
       <p><b>硕士研究生</b></p>
       <p><b>××大学××学院</b></p>
       <p><b>邮箱：1234567789@qq.com</b></p>
