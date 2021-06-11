@@ -23,7 +23,7 @@
 ## Prevention and Control of pendemic, win the war of COVID-19
 
 ### 日期：20200130
-### date：20200130
+###  Date：20200130
 
  <td width="50%">
       <img src="1.jpg" width="100%">      
@@ -39,7 +39,7 @@
 ## blessing
 
 ### 日期：不详
-### date：unknown
+### Date：unknown
 
  <td width="50%">
       <img src="福.jpg" width="100%">      
@@ -54,7 +54,7 @@
 ## Chinese Dream
 
 ### 日期：不详
-### date：unknown
+### Date：unknown
 
  <td width="50%">
       <img src="中国梦.jpg" width="100%">      
