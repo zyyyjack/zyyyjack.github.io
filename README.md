@@ -4,15 +4,19 @@
 我是一名中国书法爱好者，练习书法已几十年，精通草书，行书，楷书。常年发表书法作品。在此展示部分我的书法作品。<br>
 I am a Chineses calligraphy practicer.It's been several decades, I'm good at  grass script, running hand, regular script and <br>almost create calligraphy works every year.
 Here are my partial works.
+<br>
+<br>
+
+### 书法作品(Calligraphy Works )
+ 
 
 
-### 书法作品
-###  Calligraphy Works 
+## 20200130 作品简介(Introduction of works)
+<p>防控疫情，战胜病毒(prevention and control of epidemic situation, win the war of  vovid-19)</p><br>
 
-
-## 作品简介
-## Introduction of works
-
+ <td width="25%">
+      <img src="/查询公网ip.png" width="100%">      
+    </td>
 
 
 
