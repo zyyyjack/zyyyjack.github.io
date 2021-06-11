@@ -20,7 +20,7 @@
 ## Introduction of Works:<br>
 
 ## 防控疫情，战胜病毒
-## Prevention and Control of pendemic, win the war of COVID-19
+## Prevention and Control of pandemics, win the war of COVID-19
 
 ### 日期：20200130
 ###  Date：20200130
