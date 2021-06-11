@@ -1,8 +1,8 @@
 ### 欢迎来到个人书法网站
 
-##我是一名中国书法爱好者，练习书法已几十年，精通草书，行书，楷书。常年发表书法作品。在此展示部分我的书法作品。
-##I am a Chineses calligraphy practicer.It's been several decades, I'm good at  grass script, running hand, regular script and almost create calligraphy works every year.
-##Here are my partial works.
+我是一名中国书法爱好者，练习书法已几十年，精通草书，行书，楷书。常年发表书法作品。在此展示部分我的书法作品。<br>
+I am a Chineses calligraphy practicer.It's been several decades, I'm good at  grass script, running hand, regular script and <br>almost create calligraphy works every year.
+Here are my partial works.
 
 ### Markdown
 
