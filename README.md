@@ -18,11 +18,15 @@ Here are my partial works.
  
 
 
-## 20200130 作品简介(Introduction of Works)
-## 防控疫情，战胜病毒(prevention and control of epidemic situation, win the war of  vovid-19)<br>
+##  作品简介
+## Introduction of Works<br>
 
- <td width="40%">
-      <img src="1.jpg" width="80%">      
+## 日期(date)：20200130 
+## 防控疫情，战胜病毒 
+## prevention and control of epidemic situation, win the war of  vovid-19
+
+ <td width="50%">
+      <img src="1.jpg" width="100%">      
     </td>
 
 
@@ -36,6 +40,4 @@ Here are my partial works.
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zyyyjack/zyyyjack.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
