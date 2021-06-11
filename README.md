@@ -1,3 +1,10 @@
+<head>
+
+     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+     <meta http-equiv="Content-Language" content="zh-CN" />
+
+ </head>
 ### 欢迎来到个人书法网站
 ### Welcome to personal Chineses calligraph website
 
