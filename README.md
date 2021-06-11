@@ -14,16 +14,12 @@
 ### Here are my partial works.
 <br>
 <br>
-<br>
-
 
 ##  3.作品简介:
 ### 3.Introduction of Works:<br>
 <br>
-<br>
 ## 防控疫情，战胜病毒
 ### Prevention and Control of pandemics, win the war of COVID-19
-<br>
 <br>
 ### 日期：20200130
 ####  Date：20200130
@@ -39,10 +35,8 @@
 ##  2.作品简介:
 ## 2.Introduction of Works:<br>
 <br>
-<br>
 ## 福
 ## blessing
-<br>
 <br>
 ### 日期：不详
 ### Date：unknown
@@ -56,10 +50,10 @@
 <br>
 ##  1.作品简介:
 ## 1.Introduction of Works:<br>
-
+<br>
 ## 中国梦
 ## Chinese Dream
-
+<br>
 ### 日期：不详
 ### Date：unknown
 
