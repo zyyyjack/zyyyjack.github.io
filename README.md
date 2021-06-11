@@ -32,8 +32,8 @@
 ## 2.Introduction of Works:<br>
 ## 福
 ## blessing
-### 日期：不详
-### Date：unknown
+### 日期：2011
+### Date：2011
  <td width="50%">
       <img src="福.jpg" width="100%">      
     </td>
@@ -46,8 +46,8 @@
 ## 1.Introduction of Works:<br>
 ## 中国梦
 ## Chinese Dream
-### 日期：不详
-### Date：unknown
+### 日期：2015
+### Date：2015
  <td width="50%">
       <img src="中国梦.jpg" width="100%">      
     </td>
@@ -55,7 +55,7 @@
 
 
 
-### 谢谢观赏
+### 谢谢观赏 Thank you for watching 未完待续  to be continue
 
 
 
