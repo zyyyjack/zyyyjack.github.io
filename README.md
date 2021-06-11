@@ -8,22 +8,21 @@
 # 欢迎来到个人书法网站
 # Welcome to personal Chineses calligraphy website
 
-我是一名中国书法爱好者，练习书法已几十年，精通草书，行书，楷书。常年发表书法作品。在此展示部分我的书法作品。<br>
-I am a Chineses calligraphy practicer.It's been several decades, I'm good at  grass script, running hand, regular script and <br>almost create calligraphy works every year.
-Here are my partial works.
+## 我是一名中国书法爱好者，练习书法已几十年，精通草书，行书，楷书。常年发表书法作品。在此展示部分我的书法作品。<br>
+## I am a Chineses calligraphy practicer.It's been several decades, I'm good at  grass script, running hand, regular script and <br>almost create calligraphy works every year.
+## Here are my partial works.
 <br>
 <br>
 <br>
 
- 
+##  作品简介:
+## Introduction of Works:<br>
 
-
-##  作品简介
-## Introduction of Works<br>
-
-## 日期(date)：20200130 
 ## 防控疫情，战胜病毒 
 ## prevention and control of epidemic situation, win the war of  covid-19
+
+### 日期：20200130 
+### date：20200130 
 
  <td width="50%">
       <img src="1.jpg" width="100%">      
