@@ -5,8 +5,8 @@
      <meta http-equiv="Content-Language" content="zh-CN" />
 
  </head>
-### 欢迎来到个人书法网站
-### Welcome to personal Chineses calligraph website
+# 欢迎来到个人书法网站
+# Welcome to personal Chineses calligraph website
 
 我是一名中国书法爱好者，练习书法已几十年，精通草书，行书，楷书。常年发表书法作品。在此展示部分我的书法作品。<br>
 I am a Chineses calligraphy practicer.It's been several decades, I'm good at  grass script, running hand, regular script and <br>almost create calligraphy works every year.
@@ -19,30 +19,16 @@ Here are my partial works.
 
 
 ## 20200130 作品简介(Introduction of Works)
-# <p>防控疫情，战胜病毒(prevention and control of epidemic situation, win the war of  vovid-19)</p><br>
+## 防控疫情，战胜病毒(prevention and control of epidemic situation, win the war of  vovid-19)<br>
 
- <td width="25%">
-      <img src="1.jpg" width="70%">      
+ <td width="40%">
+      <img src="1.jpg" width="80%">      
     </td>
 
 
 
 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>张三丰</h1>
-      <p> 楷书 <p>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-    </td>
-    <td width="25%">
-      <img src="/查询公网ip.png" width="100%">      % 插入证件照代码
-    </td>
-  </tr>
-</table>
+
 
 
 
