@@ -22,7 +22,7 @@ Here are my partial works.
 # <p>防控疫情，战胜病毒(prevention and control of epidemic situation, win the war of  vovid-19)</p><br>
 
  <td width="25%">
-      <img src="1.png" width="100%">      
+      <img src="1.png" width="70%">      
     </td>
 
 
