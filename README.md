@@ -1,7 +1,7 @@
 <head>
 
      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-
+calligraphy
      <meta http-equiv="Content-Language" content="zh-CN" />
 
  </head>
@@ -9,8 +9,8 @@
 ### Welcome to personal Chineses calligraphy website
 <br>
 
-## 我是一名中国书法爱好者，练习书法已几十年，精通草书，行书，楷书。常年发表书法作品。在此展示部分我的书法作品。
-### I am a Chineses calligraphy practicer.It's been several decades, I'm good at  grass script, running hand, regular script and <br>almost create calligraphy works every year.Here are my partial works.
+## 我是一名中国书法爱好者，练习书法已几十年，酷爱草书，兼行，楷，隶。常年发表书法作品。我于1989年入中国书画函授大学，宁夏书画函授专修学院（原宁夏分校）书法大专班学习,1992年毕业,在此展示部分我的书法作品。
+### I am a Chineses calligraphy practicer.It's been several decades, I'm good at  grass script, and sometimes practice running hand, regular script and  li calligraphy(an ancient style of calligraphy current in the Han Dynasty).I entered calligraphy training class of Chinese painting and calligraphy correspondence college of Ningxia province in 1989  and graduated from 1992.I usually create calligraphy works every year.  Here are my partial works.
 <br>
 <br>
 
