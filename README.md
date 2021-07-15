@@ -26,7 +26,7 @@ calligraphy
 ## 实现祖国强胜的梦想
 ## 
 <td width="50%">
-      <img src="天高云淡.jpg" width="100%">      
+      <img src="致富脱贫.jpg" width="100%">      
     </td>
 
 
